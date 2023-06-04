@@ -1,2 +1,2 @@
 # messaging-app
-Creating a simple messaging app with React
+Creating a simple messaging app with React JS
