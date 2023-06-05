@@ -1,0 +1,4 @@
+PascalCasing
+function Message(){
+
+}
